@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+#headerlogo .container-fluid{
+    border:1px solid black;
+    height: 70px;
+}
+.nav-link{
+    display: inline;
+    margin-left: 20px;
+    font-size: 16px;
+    color:black;
+    cursor: pointer;  
+}
+.headericons{
+    margin-left: 20px;
+    font-size: 24px;
+    color:black;
+    cursor: pointer;
+}
+#headermenu .container-fluid {
+    border:1px solid black;
+    height: 40px;
+}
+#headermenu .container-fluid .nav-link{
+    font-size: 14px;
+}
+#reviews .container h6{
+    font-size: 14px;
+    margin: 40px;
+}
+#reviews .container i{
+    color: green;
+    font-size:16px ;
+}
+#bestseller{
+    background: #fff6ef;
+    height: 1900px;
+    overflow: hidden;
+}
+#new-arrivals{
+    background:white;
+    height: 600px;
+}
+#contact{
+    background: black;
+    height: 400px;
+}
+#contact .d-flex{
+    color:white;
+}
+#contact .flex-column a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #a3b7b7;
+}
+#contact .flex-column a:hover{
+    color:white;
+}
+#footer{
+    background: black;
+    height: 90px;
+}
+#final{
+    background: black;
+    border:1px solid grey;
+    height:40px;
+    font-size: 12px;
+    text-align: center;
+    align-content: center;
+}
